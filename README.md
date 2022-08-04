@@ -1,6 +1,10 @@
 # Funiro
-Landing: 3 interesting sliders, gallery dynamic, the ability to add items to your shopping cart, AJAX loading from JSON
+Landing: 
+- 3 interesting sliders
+- Gallery dynamic
+- The ability to add items to your shopping cart
+- AJAX loading from JSON
 
-View site: 
+View site: https://karyna-ko.github.io/funiro/ 
 
 ![screenshot](img/Funiro.png)
